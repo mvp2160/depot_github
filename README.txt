@@ -19,6 +19,11 @@ Vim also aims to provide a (mostly) POSIX-compatible vi implementation, when
 compiled with a minimal feature set (typically called vim.tiny), which is used
 by many Linux distributions as the default vi editor.
 
+vim vise egalement à fournir une implementation vi (principalement) compatible POSIX 
+lorsqu'elle est compile avec un ensemble de fonction minimales (generalement appele 
+vim.tiny), qui est utilise par de nombreuses distribution linux comme editeur vi 
+par defaut.
+
 Vim runs under MS-Windows (7, 8, 10, 11), macOS, Haiku, VMS and almost all
 flavours of UNIX.  Porting to other systems should not be very difficult.
 Older versions of Vim run on MS-DOS, MS-Windows 95/98/Me/NT/2000/XP/Vista,
