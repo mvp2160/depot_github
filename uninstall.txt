@@ -1,4 +1,5 @@
 Uninstalling Vim on MS-Windows.
+desinstalle vim sur windows
 
 There are three ways to remove Vim:
 Il ya trois façons de désinstaller Vim:
