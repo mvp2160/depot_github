@@ -8,9 +8,14 @@ directly (but please note, the initial posting is subject to moderation).
 In that case an attachment with a unified diff format is preferred.
 Information about the mailing list can be found [on the Vim website][0]
 
+
 A pull request has the advantage that it will trigger the Continuous
 Integration tests, you will be warned of problems (you can ignore the coverage
 warning, it's noisy).
+
+Une demande de tirage a l'avantage de declencher les tests d'integration continu,
+vous serez averti des problème (vous pouvez ignorer l'avertissement de couverture,
+c'est bruyant).
 
 Please always add a test, if possible. All new functionality should be tested
 and bug fixes should be tested for regressions: the test should fail before the
