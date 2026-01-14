@@ -1,6 +1,7 @@
 Uninstalling Vim on MS-Windows.
 
 There are three ways to remove Vim:
+Il ya trois façons de désinstaller Vim:
 
 1. With the GUI uninstaller.
    This is only available when Vim was installed with the self-installing
