@@ -1,5 +1,4 @@
-THEME: Projet de mise en oeuvre d'un environnement collaboratif de developpement logiciel à l'aide de git, linux, vim et
-       github
+THEME: Projet de mise en oeuvre d'un environnement collaboratif de developpement logiciel à l'aide de git, linux, vim et github
 
 
 NOMS DES MEMBRES DU GROUPE
@@ -9,7 +8,7 @@ NOMS DES MEMBRES DU GROUPE
 
 NOM DU PROFFESSEUR
 
-- Monsieur ABAGHE ONDO Rolly Marvin (leeMarvin94)
+- Monsieur ABAGHE ONDO Roolly Marvin (leeMarvin94)
 
 OBJECTIFS PEDAGOGIQUES
 
