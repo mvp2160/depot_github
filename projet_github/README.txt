@@ -8,7 +8,7 @@ NOMS DES MEMBRES DU GROUPE
 
 NOM DU PROFFESSEUR
 
-- Monsieur ABAGHE ONDO Roolly Marvin (leeMarvin94)
+- Monsieur  ONDO ABAGHE  Roolly Marvin (leeMarvin94)
 
 OBJECTIFS PEDAGOGIQUES
 
@@ -35,6 +35,6 @@ ORGANISATION DU TRAVAIL
 
 LIVRABLES ATTENDUS
 
-- le lien vers le depot github qui se trouvera dans le RAPPORT.md 
+- le lien vers le depot github qui se trouvera dans le RAPPORT.pdf 
 - le rapport ecrit structure 
 - capture d'ecran de l'utilisation de vim et git
